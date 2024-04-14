@@ -1,5 +1,11 @@
 # uBlacklist Rules by n0nakamura
 
+購読するためには次のURLをuBlacklistに追加してください。
+
+https://raw.githubusercontent.com/n0nakamura/ublacklist-rules/main/uBlacklist.txt
+
+## 概要
+
 [uBlacklist](https://iorate.github.io/ublacklist/) 向けのルールリストです。次のリストを購読した上で、更にn0nakamuraがブロックしたWebページ群のリストがこのリポジトリに置かれています。
 
 ```json
