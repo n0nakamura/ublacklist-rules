@@ -1,6 +1,6 @@
-# uBlacklist by n0nakamura
+# uBlacklist Rules by n0nakamura
 
-次のリストを購読した上で、更にn0nakamuraがブロックしたWebページ群のリストがこのリポジトリに置かれています。
+[uBlacklist](https://iorate.github.io/ublacklist/) 向けのルールリストです。次のリストを購読した上で、更にn0nakamuraがブロックしたWebページ群のリストがこのリポジトリに置かれています。
 
 ```json
     {
